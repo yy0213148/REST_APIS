@@ -1,0 +1,44 @@
+[
+    {
+        "name": "iphone",
+        "price": 1455,
+        "featured": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1254,
+        "feature": true,
+        "rating": 4.9,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1254,
+        "feature": true,
+        "rating": 4.9,
+        "company": "Samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 1254,
+        "feature": true,
+        "rating": 4.9,
+        "company": "mi"
+    },
+    {
+        "name": "iphone10",
+        "price": 1254,
+        "feature": true,
+        "rating": 4.9,
+        "company": "dell"
+    }
+]

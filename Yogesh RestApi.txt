@@ -1,0 +1,6 @@
+Yogesh RestApi
+
+yy0213148
+fXYtp7vVcAphXGOI
+
+mongodb+srv://yy0213148:fXYtp7vVcAphXGOI@cluster0.nxyremp.mongodb.net/yogeshApi?retryWrites=true&w=majority&appName=Cluster0
